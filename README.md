@@ -10,7 +10,8 @@ To do this, you’ll use BeautifulSoup and Splinter to scrape full-resolution im
 Note: The above project overview was extracted from the background to the module 10 Challenge.
 ![Hemisphere Images and titles](https://github.com/Diana7e/Mission-to-Mars-/blob/918d4af0fa8c85319effb70372cf040af2d546d4/hemispher%20images%20ad%20titles.png)
 ### Resources
-https://github.com/Diana7e/Mission-to-Mars-/blob/cd641ecffff1b4b8cf063f8d2d9a41cd8b07a9b7/Screenshot%20web.png
+
+![website](https://github.com/Diana7e/Mission-to-Mars-/blob/cd641ecffff1b4b8cf063f8d2d9a41cd8b07a9b7/Screenshot%20web.png)
  
 **Code Files:** Mission_to_Mars_Challenge.ipynb, Mission_to_Mars_Challenge.py, Mission_to_Mars.ipynb
 
